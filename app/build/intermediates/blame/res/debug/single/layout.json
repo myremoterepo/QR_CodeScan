@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workfile\\workspacegit\\myemoterepo\\QR_CodeScan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

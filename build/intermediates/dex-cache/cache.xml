@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workfile\android-devtool\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\workfile\workspacegit\myemoterepo\QR_CodeScan\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_95f2a96d10c80e79c5e55b360108d69d8078143b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workfile\workspacegit\myemoterepo\QR_CodeScan\app\libs\zxing-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a02c5a88568156164038e90316c97272bb257a95">
+        <dex dex="E:\workfile\workspacegit\myemoterepo\QR_CodeScan\app\build\intermediates\pre-dexed\debug\zxing-3.3.0_46a800778268d2c425d155f3b13755ab101c331f.jar" />
+    </item>
+
+</items>
