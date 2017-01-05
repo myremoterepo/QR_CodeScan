@@ -7,17 +7,176 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75cb3d6b-3936-4280-9569-f9c58df1c605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/QR_CodeScan.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/ZpHHeNEa8yHtPKBY3s+6Xf_FMEY=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_b6d386a6f08b4d5dc6c8947a10afa566696a9821.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_95f2a96d10c80e79c5e55b360108d69d8078143b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/zxing-3.3.0_46a800778268d2c425d155f3b13755ab101c331f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/QR_CodeScan.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/MipcaActivityCapture$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/MipcaActivityCapture$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/MipcaActivityCapture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/example/qr_codescan/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/AutoFocusCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/CameraConfigurationManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/CameraManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/FlashlightManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/PlanarYUVLuminanceSource.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/.svn/text-base/PreviewCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/AutoFocusCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/CameraConfigurationManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/CameraManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/FlashlightManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/PlanarYUVLuminanceSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/camera/PreviewCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/CaptureActivityHandler.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/DecodeFormatManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/DecodeHandler.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/DecodeThread.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/FinishListener.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/InactivityTimer.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/.svn/text-base/Intents.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/CaptureActivityHandler$State.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/CaptureActivityHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/DecodeFormatManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/DecodeHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/DecodeThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/FinishListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/InactivityTimer$DaemonThreadFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/InactivityTimer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents$Encode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents$Scan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents$SearchBookContents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents$Share.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents$WifiConnect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/decoding/Intents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/view/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/view/.svn/text-base/ViewfinderResultPointCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/view/.svn/text-base/ViewfinderView.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/view/ViewfinderResultPointCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/com/mining/app/zxing/view/ViewfinderView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-2463dcf619fa2018ecb77af697a9b8c1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dexedLibs/zxing-61872849c9418da9a5a4df4c3e922add.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/mm_title_back_focused.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/mm_title_back_normal.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/mm_title_back_pressed.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/mmtitle_bg_alpha.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/example/qr_codescan/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/example/qr_codescan/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/import-summary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/zxing.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mm_title_back_focused.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mm_title_back_normal.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mm_title_back_pressed.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-hdpi/mmtitle_bg_alpha.9.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/drawable/mm_title_back_btn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_capture.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/layout/activity_title.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/menu/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/prop-base/beep.ogg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/prop-base/msg.ogg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/text-base/beep.ogg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/text-base/msg.ogg.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/text-base/realm_properties.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/.svn/text-base/sound.wav.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/beep.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/realm_properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/color.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/ids.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/qr_codescan/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/qr_codescan/MipcaActivityCapture.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/AutoFocusCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/CameraConfigurationManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/CameraManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/FlashlightManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/PlanarYUVLuminanceSource.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/.svn/text-base/PreviewCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/AutoFocusCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/CameraConfigurationManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/CameraManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/FlashlightManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/PlanarYUVLuminanceSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/camera/PreviewCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/CaptureActivityHandler.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/DecodeFormatManager.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/DecodeHandler.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/DecodeThread.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/FinishListener.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/InactivityTimer.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/.svn/text-base/Intents.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/CaptureActivityHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/DecodeFormatManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/DecodeHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/DecodeThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/FinishListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/InactivityTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/decoding/Intents.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/view/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/view/.svn/text-base/ViewfinderResultPointCallback.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/view/.svn/text-base/ViewfinderView.java.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/view/ViewfinderResultPointCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/mining/app/zxing/view/ViewfinderView.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
     </list>
     <ignored path="QR_CodeScan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,19 +212,21 @@
       <file leaf-file-name="ViewfinderView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/view/ViewfinderView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
+            <state relative-caret-position="169">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/qr_codescan/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="266">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding>
+                <marker date="1483537366286" expanded="true" signature="422:433" ph="/**...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1665,6 +1826,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/qr_codescan/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1769,27 +1931,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zxing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
+              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1807,53 +1949,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zxing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QR_CodeScan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QR_CodeScan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1919,6 +2015,50 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1932,6 +2072,22 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1958,6 +2114,27 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -1980,6 +2157,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -2069,12 +2274,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1370" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2113,10 +2318,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/view/ViewfinderView.java">
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2126,6 +2331,24 @@
         <state relative-caret-position="133">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/mining/app/zxing/view/ViewfinderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/qr_codescan/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <marker date="1483537366286" expanded="true" signature="422:433" ph="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
